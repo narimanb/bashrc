@@ -10,7 +10,7 @@ if [ $# -eq 0 ]; then
     # Display usage if no parameters are given.
     echo -e "\nDeploy bashrc scripts to a remote host: you are missing a <user@host>."
     echo -e "\nUSAGE"
-    echo -e "    bash deploy.sh user@host\n"
+    echo -e "    bash deploy.sh <user@host>\n"
     exit 1
 fi
 
