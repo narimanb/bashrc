@@ -7,7 +7,7 @@
 #---------------------------------------------------#
 
 alias bashrc='vim ~/.bashrc'
-alias bupdate='source ~/.bashrc'
+alias bupdate="source ~/.bashrc && echo 'The .bashrc was successfully updated.'"
 
 alias balias='vim ~/.bash_aliases' # Edit this file.
 alias bfunc='vim ~/.bash_functions'
