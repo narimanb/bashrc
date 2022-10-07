@@ -50,6 +50,7 @@ alias h2='history 20'
 alias h3='history 30'
 alias hg='history | grep'
 alias hw='history -w'
+alias hc='history -c'
 
 alias f='find . | grep'
 alias j='jobs -l'
@@ -67,7 +68,11 @@ alias vim!='sudo vim'
 alias cat!='sudo cat'
 
 alias c='clear'
+alias cls='clear;ls' # Clear the screen and list files.
 alias r='reset'
+
+alias x='exit'
+alias q='exit'
 
 # ------------------------------------------------- #
 # Aliases for listing files in many ways.           #
