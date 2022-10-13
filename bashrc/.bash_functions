@@ -45,3 +45,9 @@ cl() {
     fi
   fi
 }
+
+ht() {
+  echo "Top 10 your most commonly used commands:"
+  echo
+  history | awk '{CMD[$2]++;count++;}END { for (a in CMD)print CMD[a] " " CMD[a]/count*100 "% " a;}' | grep -v "./" | column -c3 -s " " -t | sort -nr | nl | head -n10
+}
