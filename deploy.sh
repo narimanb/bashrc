@@ -3,7 +3,6 @@
 #  Top Useful Bash Aliases and Bash Functions.      #
 #  Github: https:github.com/narimanb/bashrc         #
 #  File: deploy.sh                                  #
-#  https://dev-lab.online/top-useful-bash-aliases   #
 #---------------------------------------------------#
 
 if [ $# -eq 0 ]; then
