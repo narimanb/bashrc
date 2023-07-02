@@ -3,7 +3,6 @@
 #  Top Useful Bash Aliases and Bash Functions.      #
 #  Github: https:github.com/narimanb/bashrc         #
 #  File: .bash_logout                               #
-#  https://dev-lab.online/top-useful-bash-aliases   #
 #---------------------------------------------------#
 
 # when leaving the console clear the screen to increase privacy
