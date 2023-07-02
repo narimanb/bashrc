@@ -3,7 +3,6 @@
 #  Top Useful Bash Aliases and Bash Functions.      #
 #  Github: https:github.com/narimanb/bashrc         #
 #  File: .bashrc                                    #
-#  https://dev-lab.online/top-useful-bash-aliases   #
 #---------------------------------------------------#
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
