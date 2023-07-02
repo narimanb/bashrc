@@ -3,7 +3,6 @@
 #  Top Useful Bash Aliases and Bash Functions.      #
 #  Github: https:github.com/narimanb/bashrc         #
 #  File: .bash_aliases                              #
-#  https://dev-lab.online/top-useful-bash-aliases   #
 #---------------------------------------------------#
 
 alias bashrc='vim ~/.bashrc'
